@@ -7,6 +7,7 @@
 I work as an analyst in support. 4? 5? I dont remember how many years.
 
 ## Skills:
+__Languages:__
 * Java
 * Pascal
 * Basic
