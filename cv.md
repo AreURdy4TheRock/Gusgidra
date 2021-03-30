@@ -6,7 +6,7 @@
 **Aim** - to learn JS, CSS and HTML for create a [_**new World**_](https://vk.com/rybalkomn). Discover something new, look from the outside and meet new people.
 I work as an analyst in support. 4? 5? I dont remember how many years.
 
-### Skills:
+## Skills:
 * Java
 * Pascal
 * Basic
@@ -28,3 +28,9 @@ function century(year) {
 }
 ```
 __More of code at [link](https://github.com/AreURdy4TheRock/Codewars)__
+
+## Study
+4 years at analyst in support. Half year at landscape designer and one year at online store seller.
+6 years of study at Sevastopol State University at the Faculty of Cybernetics and Computer Science.
+
+> Fight Fear With Beer
